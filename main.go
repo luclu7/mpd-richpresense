@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/ananagame/rich-go/client"
+	"github.com/hugolgst/rich-go/client"
 	"github.com/fhs/gompd/mpd"
 	"log"
 	"time"
